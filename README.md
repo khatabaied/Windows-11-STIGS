@@ -1,9 +1,11 @@
 # Windows-11-STIGS
+
 PowerShell implementations and remediation scripts for DISA Windows 11 STIG controls, validated through Tenable compliance scans.
 
-Before:
-![[BaselineSCAN.png]] 
+## Before Remediation
 
-After: 
-![[After-STIG-Implemented]]
+![Baseline STIG Scan](BaselineSCAN.png)
 
+## After Remediation
+
+![After STIG Implementation](After-STIGS-Implemented.png)
