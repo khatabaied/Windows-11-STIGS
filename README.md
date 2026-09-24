@@ -8,4 +8,4 @@ PowerShell implementations and remediation scripts for DISA Windows 11 STIG cont
 
 ## After Remediation
 
-![After STIG Implementation](After-STIGS-Implemented.png)
+![After STIG Implementation](After-STIG-Implementation.png)
