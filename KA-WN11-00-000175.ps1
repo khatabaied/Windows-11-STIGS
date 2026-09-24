@@ -35,5 +35,4 @@ if ($Service.Status -eq "Running") {
 
 Set-Service -Name $ServiceName -StartupType Disabled
 
-Write-Host "WN11-00-000175 remediation complete."
-Write-Host "Secondary Logon service has been disabled."
+
